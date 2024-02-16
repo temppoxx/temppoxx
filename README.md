@@ -1,9 +1,9 @@
-[![MasterHead](https://www.kevinwanke.com/wp-content/uploads/2021/06/marcel-friedrich-XC_28Kk25F0-unsplash.jpg)](https://github.com/temppoxx)
+[![MasterHead](https://picresize.com/images/rsz_marcel-friedrich-xc_28kk25f0-unsplash.jpg)](https://github.com/temppoxx)
 
 <h1 align="center">Hi 👋, I'm Franco</h1>
 <h3 align="center">A passionate backend developer from Uruguay</h3>
 
-<img align="right" alt="Coding" width="400" src="https://dresma.ai/wp-content/uploads/2022/01/mern-stack-developer.gif">
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAC/cat.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=temppoxx&label=Profile%20views&color=0e75b6&style=flat" alt="temppoxx" /> </p>
 

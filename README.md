@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/stxLSQP.png)](https://github.com/temppoxx)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1200/0*n-2bW82Z6m6U2bij.jpeg)](https://github.com/temppoxx)
 
 <h1 align="center">Hi 👋, I'm Franco</h1>
 <h3 align="center">A passionate backend developer from Uruguay</h3>

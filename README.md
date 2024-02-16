@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/8CMui6c.png)](https://github.com/temppoxx)
+[![MasterHead](https://www.kevinwanke.com/wp-content/uploads/2021/06/marcel-friedrich-XC_28Kk25F0-unsplash.jpg)](https://github.com/temppoxx)
 
 <h1 align="center">Hi 👋, I'm Franco</h1>
 <h3 align="center">A passionate backend developer from Uruguay</h3>
